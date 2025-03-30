@@ -1,6 +1,10 @@
-# odin-recipes
-See https://www.theodinproject.com/lessons/foundations-recipes
+# Ericzundel's github website
 
-This repo contains different projects that are a part of The Odin Project Curriculum
+Right now, this repo contains different projects that are a part of The Odin Project Curriculum
 
-Hopefull you'll be able to see this website [online](https://ericzundel.github.io/)
+See [published site](https://ericzundel.github.io/)
+
+## odin-recipes
+
+An exercise in writing recipes and using lists and links.
+See <https://www.theodinproject.com/lessons/foundations-recipes>
