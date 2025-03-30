@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, sans-serif;
+}
+body {
+    background-color: rgb(150,255,255)
+}
+
+.backarrow {
+   background-color: white;
+   display: flex;
+   align-items: flex-start;
+   /* justify-content: space-between;*/
+}
+
+.backarrow .image {
+    width: 100px;
+    height: 100px;
+    align-self: center;
+}
+.backarrow .link {
+    /* background-color: blueviolet; */
+    align-self: center;
+}
+
+.recipe-title {
+    background-color: white;
+}
